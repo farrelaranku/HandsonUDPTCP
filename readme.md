@@ -1,7 +1,7 @@
 Farrela Ranku Mahhisa
 5025211129
 
-### TCP
+## TCP
 
 #### Soal 1
 IP Address = 192.168.101.123
@@ -48,7 +48,39 @@ Receiving Time = 16:05:00.5852670
 RTT = 0,332,557 s
 
 #### Soal 7
+Header = 32 + payload = 1121 bytes, total = 1143 bytes
 
-Header = 32 dengan payload = 1121 bytes, total = 1143 bytes
+## UDP
 
-### UDP
+#### Soal 1
+No. Packet = 1, using HTTPS,
+
+![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/efb49360-8e87-4992-80ca-ab9c35987d54)
+
+Header = Source port, Destination port, Length, and Checksum
+
+![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/647731f8-8667-47c6-bff2-0efe555290ac)
+
+
+#### Soal 2
+Total 8 bytes
+
+#### Soal 3
+355 is the value of total size of the packet, as it is the total sum of UDP header (8 bytes) + UDP payload (347 bytes)
+
+![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/3481af91-013a-4892-a5eb-9eeecb13d35c)
+
+#### Soal 4
+It's 65.535 (16 bit field) - 8 (header) = 65.527 bytes
+
+#### Soal 5
+Port 65.535
+
+#### Soal 6
+UDP = 17
+
+![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/7677e72e-7abd-41dc-b38a-f11c6e0de9f7)
+
+#### Soal 7
+
+First is packet no 1, and then packet no 2. As The source port number of packet 1 (request) is the destination port number of packet 2 (reply)
