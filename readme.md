@@ -21,12 +21,12 @@ Sequence number (raw) = 1277933150, with flag 0x002 (SYN)
 
 ![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/8d027e34-f810-4ce0-85e6-c804e7ba758b)
 
-### Soal 4
+#### Soal 4
 Sequence number (raw) = 3209956428, with flag 0x012 (SYN, ACK), Acknowledgment number (raw) = 1277933151.
 
 ![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/17cfe8d8-f72b-487b-bf81-84c786701886)
 
-### Soal 5
+#### Soal 5
 Sequence number (raw) = 1278084963
 
 ![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/617f9d75-a5a3-4adf-aff9-4de142fc52e9)
@@ -35,7 +35,7 @@ Payload size = 1121 bytes
 
 ![image](https://github.com/farrelaranku/HandsonUDPTCP/assets/114351382/73c3114a-95e3-4752-b79e-864baa482f92)
 
-### Soal 6
+#### Soal 6
 
 Arrival Time = 16:05:00.2527100
 
@@ -47,5 +47,8 @@ Receiving Time = 16:05:00.5852670
 
 RTT = 0,332,557 s
 
-### Soal 7
+#### Soal 7
 
+Header = 32 dengan payload = 1121 bytes, total = 1143 bytes
+
+### UDP
